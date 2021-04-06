@@ -1,9 +1,6 @@
 # 2021sp-475-SpecterAdvent
 
-
-
-
-
+Specter Advent is a 2D platformer where the player must defeat all enemies before progressing to the end, using the abilities of both characters at their disposal
 
 
 # Mac
