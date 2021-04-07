@@ -10,3 +10,8 @@ If you own a MAC and cannot open the file due to security reasons, then go to Sy
 # Windows
 Download the repo.
 Navigate to Builds/SpecterAdvent-Windows and run the SpecterAdvent.exe file. 
+
+# Developers
+* Amy Burnett 
+* Cory Jeremiah
+* Rohama Getachew
